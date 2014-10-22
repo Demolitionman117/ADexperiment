@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdExpriment</string>
+    <string name="title_activity_main">ADExpriment</string>
+    <string name="action_settings">Settings</string>
+    <string name="Btn_read_sd">Läs SD-Kort</string>
+    <string name="Btn_read_contact">visa kontakterna</string>
+    <string name="Btn_read_sms">visa sms</string>
+    <string name="title_activity_dirnames_list">DirnamesListActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_sd_card_dir_root_list">SdCardDirRootListActivity</string>
+
+</resources>
